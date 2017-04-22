@@ -8,5 +8,6 @@ namespace BarberApp.Modelos.Barber
     using System.Threading.Tasks;
     public class Departamento
     {
+        //hola
     }
 }
