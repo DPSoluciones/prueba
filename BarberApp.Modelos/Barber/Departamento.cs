@@ -9,5 +9,6 @@ namespace BarberApp.Modelos.Barber
     public class Departamento
     {
         //hola
+        //hola juancho
     }
 }
